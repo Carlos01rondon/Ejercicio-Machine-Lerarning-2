@@ -1,0 +1,101 @@
+ID,Nombre,Ubicacion,Tamaño_m2,Horario_apertura,Num_empleados,Coleccion_libros,Computadoras,Eventos_mes,Zona_infantil,Acceso_transporte,Afluencia_alta
+1,Biblioteca Regional 1,Valladolid,103,Tarde (16-21h),12,9935,12,10,1,1,0
+2,Biblioteca Este 2,Barcelona,392,Mañana (9-14h),10,11810,20,11,1,1,0
+3,Biblioteca Del Barrio 3,Madrid,273,Completo (9-21h),7,13796,9,4,1,1,1
+4,Biblioteca Oeste 4,Murcia,274,Mañana (9-14h),9,19025,25,3,1,1,1
+5,Biblioteca Regional 5,Murcia,434,Mañana (9-14h),4,13745,6,2,1,1,1
+6,Biblioteca Infantil 6,Palma,452,Tarde (16-21h),13,11651,13,2,1,0,0
+7,Biblioteca Sur 7,Zaragoza,175,Tarde (16-21h),4,10957,25,3,1,1,1
+8,Biblioteca Regional 8,Valencia,179,Tarde (16-21h),1,2979,4,8,1,1,0
+9,Biblioteca Del Barrio 9,Valladolid,102,Tarde (16-21h),8,4952,2,1,0,1,1
+10,Biblioteca Oeste 10,Palma,221,Tarde (16-21h),14,6381,22,14,1,1,1
+11,Biblioteca Este 11,Málaga,267,Completo (9-21h),14,14569,28,8,0,1,0
+12,Biblioteca Del Barrio 12,Córdoba,209,Mañana (9-14h),12,3349,10,0,1,0,1
+13,Biblioteca Del Barrio 13,Valencia,247,Mañana (9-14h),3,7890,10,13,1,1,0
+14,Biblioteca Sur 14,Madrid,465,Mañana (9-14h),7,12422,17,14,0,1,1
+15,Biblioteca Municipal 15,Valencia,296,Mañana (9-14h),12,2989,14,14,1,1,1
+16,Biblioteca Oeste 16,Zaragoza,373,Tarde (16-21h),2,10323,11,0,1,0,0
+17,Biblioteca Norte 17,Valencia,488,Mañana (9-14h),2,9707,8,4,1,1,1
+18,Biblioteca Del Barrio 18,Madrid,252,Completo (9-21h),7,10040,9,5,0,1,0
+19,Biblioteca Municipal 19,Zaragoza,233,Completo (9-21h),6,16864,25,5,1,1,1
+20,Biblioteca Norte 20,Alicante,172,Mañana (9-14h),3,5111,11,2,1,1,1
+21,Biblioteca Oeste 21,Murcia,450,Mañana (9-14h),9,19723,16,6,1,1,1
+22,Biblioteca Central 22,Murcia,304,Completo (9-21h),10,6378,28,8,1,0,0
+23,Biblioteca Infantil 23,Córdoba,343,Completo (9-21h),14,16847,5,10,1,1,1
+24,Biblioteca Municipal 24,Bilbao,329,Tarde (16-21h),13,1351,6,11,1,1,1
+25,Biblioteca Universitaria 25,Alicante,374,Completo (9-21h),6,18571,13,9,1,1,0
+26,Biblioteca Central 26,Alicante,421,Tarde (16-21h),10,7333,12,7,1,1,0
+27,Biblioteca Infantil 27,Valladolid,147,Tarde (16-21h),10,12438,7,5,1,0,1
+28,Biblioteca Sur 28,Valencia,247,Tarde (16-21h),6,2927,9,11,0,1,1
+29,Biblioteca Regional 29,Murcia,444,Tarde (16-21h),1,4500,8,7,0,1,1
+30,Biblioteca Este 30,Madrid,289,Tarde (16-21h),4,5552,17,11,1,1,1
+31,Biblioteca Universitaria 31,Sevilla,193,Mañana (9-14h),10,3238,26,4,1,1,1
+32,Biblioteca Sur 32,Sevilla,146,Completo (9-21h),6,5887,25,7,1,1,0
+33,Biblioteca Oeste 33,Zaragoza,250,Tarde (16-21h),6,8502,1,9,0,1,0
+34,Biblioteca Sur 34,Murcia,173,Completo (9-21h),11,6036,4,11,0,1,0
+35,Biblioteca Regional 35,Murcia,236,Completo (9-21h),12,13979,28,3,0,1,1
+36,Biblioteca Oeste 36,Córdoba,375,Tarde (16-21h),5,4413,4,9,1,0,0
+37,Biblioteca Universitaria 37,Sevilla,398,Mañana (9-14h),1,17950,5,7,1,0,1
+38,Biblioteca Regional 38,Murcia,308,Tarde (16-21h),8,11136,18,9,1,1,1
+39,Biblioteca Norte 39,Córdoba,197,Mañana (9-14h),5,6226,7,11,1,0,1
+40,Biblioteca Este 40,Valencia,301,Completo (9-21h),12,3873,15,1,1,0,0
+41,Biblioteca Universitaria 41,Málaga,492,Mañana (9-14h),12,12661,12,11,1,1,1
+42,Biblioteca Norte 42,Valladolid,469,Mañana (9-14h),12,2582,0,11,1,0,0
+43,Biblioteca Infantil 43,Barcelona,452,Mañana (9-14h),5,16781,21,4,1,1,1
+44,Biblioteca Universitaria 44,Alicante,395,Completo (9-21h),7,15805,19,8,1,0,0
+45,Biblioteca Infantil 45,Bilbao,196,Completo (9-21h),4,10317,16,3,1,1,0
+46,Biblioteca Oeste 46,Zaragoza,197,Mañana (9-14h),6,11761,6,10,1,1,1
+47,Biblioteca Norte 47,Málaga,401,Mañana (9-14h),13,917,24,5,1,1,0
+48,Biblioteca Este 48,Valladolid,248,Tarde (16-21h),4,9308,12,14,0,0,0
+49,Biblioteca Regional 49,Valladolid,357,Mañana (9-14h),14,3767,3,0,1,1,1
+50,Biblioteca Del Barrio 50,Valladolid,466,Tarde (16-21h),3,17709,3,8,1,1,1
+51,Biblioteca Sur 51,Valladolid,473,Mañana (9-14h),7,6245,5,0,0,1,1
+52,Biblioteca Central 52,Sevilla,177,Tarde (16-21h),8,11838,27,4,1,1,1
+53,Biblioteca Este 53,Córdoba,88,Completo (9-21h),4,912,18,3,1,1,1
+54,Biblioteca Norte 54,Alicante,387,Mañana (9-14h),13,8043,28,12,1,0,0
+55,Biblioteca Del Barrio 55,Murcia,409,Mañana (9-14h),2,8087,11,11,1,1,0
+56,Biblioteca Este 56,Valladolid,178,Mañana (9-14h),12,1228,21,12,1,1,0
+57,Biblioteca Norte 57,Bilbao,316,Mañana (9-14h),10,12157,6,12,0,1,1
+58,Biblioteca Municipal 58,Murcia,490,Tarde (16-21h),14,6488,26,13,0,1,1
+59,Biblioteca Municipal 59,Madrid,483,Mañana (9-14h),3,19388,9,2,0,1,1
+60,Biblioteca Infantil 60,Madrid,200,Completo (9-21h),1,3467,25,12,0,1,1
+61,Biblioteca Este 61,Bilbao,464,Completo (9-21h),8,15027,18,5,0,0,1
+62,Biblioteca Municipal 62,Córdoba,347,Mañana (9-14h),3,19670,6,1,0,1,0
+63,Biblioteca Norte 63,Bilbao,148,Completo (9-21h),12,16548,29,2,1,1,1
+64,Biblioteca Infantil 64,Sevilla,312,Mañana (9-14h),10,18006,2,4,0,1,1
+65,Biblioteca Norte 65,Bilbao,301,Mañana (9-14h),7,18455,12,14,1,1,1
+66,Biblioteca Infantil 66,Valencia,193,Completo (9-21h),10,5573,12,8,1,0,0
+67,Biblioteca Este 67,Murcia,395,Mañana (9-14h),5,5604,17,1,1,1,1
+68,Biblioteca Del Barrio 68,Málaga,161,Completo (9-21h),10,2643,27,9,1,1,1
+69,Biblioteca Regional 69,Palma,109,Tarde (16-21h),5,7857,29,7,0,1,1
+70,Biblioteca Universitaria 70,Córdoba,418,Mañana (9-14h),14,12543,25,13,0,0,1
+71,Biblioteca Del Barrio 71,Bilbao,51,Tarde (16-21h),7,3940,19,1,0,1,1
+72,Biblioteca Oeste 72,Zaragoza,434,Completo (9-21h),9,6144,27,10,0,1,1
+73,Biblioteca Norte 73,Madrid,353,Tarde (16-21h),12,11018,7,12,0,0,0
+74,Biblioteca Oeste 74,Valencia,303,Tarde (16-21h),5,15052,28,4,0,1,1
+75,Biblioteca Del Barrio 75,Alicante,189,Completo (9-21h),1,3414,8,6,0,0,1
+76,Biblioteca Infantil 76,Valladolid,86,Tarde (16-21h),10,14084,6,7,0,0,1
+77,Biblioteca Universitaria 77,Palma,209,Tarde (16-21h),10,12644,0,0,1,1,1
+78,Biblioteca Universitaria 78,Córdoba,58,Completo (9-21h),1,14897,2,5,0,1,1
+79,Biblioteca Central 79,Málaga,282,Tarde (16-21h),2,9287,12,0,1,1,1
+80,Biblioteca Universitaria 80,Palma,148,Completo (9-21h),14,14691,27,1,1,1,1
+81,Biblioteca Regional 81,Bilbao,196,Tarde (16-21h),6,1228,29,14,1,1,0
+82,Biblioteca Universitaria 82,Sevilla,353,Completo (9-21h),9,18249,24,0,0,1,1
+83,Biblioteca Del Barrio 83,Madrid,257,Completo (9-21h),8,1198,27,10,1,1,1
+84,Biblioteca Central 84,Madrid,180,Tarde (16-21h),13,7686,16,4,1,1,0
+85,Biblioteca Del Barrio 85,Alicante,453,Tarde (16-21h),5,15012,24,9,0,1,1
+86,Biblioteca Del Barrio 86,Sevilla,201,Tarde (16-21h),1,14423,23,14,1,1,1
+87,Biblioteca Sur 87,Valladolid,103,Mañana (9-14h),13,17279,0,8,1,1,1
+88,Biblioteca Central 88,Murcia,169,Mañana (9-14h),7,7900,5,5,0,1,1
+89,Biblioteca Del Barrio 89,Barcelona,210,Mañana (9-14h),5,4671,20,10,0,1,0
+90,Biblioteca Sur 90,Valencia,457,Completo (9-21h),6,4860,5,10,1,0,0
+91,Biblioteca Sur 91,Madrid,165,Tarde (16-21h),13,3002,25,0,1,1,0
+92,Biblioteca Central 92,Zaragoza,124,Completo (9-21h),7,17601,11,12,0,1,1
+93,Biblioteca Oeste 93,Madrid,162,Mañana (9-14h),3,19666,12,0,0,0,0
+94,Biblioteca Infantil 94,Palma,469,Tarde (16-21h),12,5986,12,1,1,0,0
+95,Biblioteca Regional 95,Madrid,471,Completo (9-21h),10,8835,28,8,1,1,0
+96,Biblioteca Infantil 96,Córdoba,153,Tarde (16-21h),3,4991,14,2,1,1,1
+97,Biblioteca Universitaria 97,Madrid,389,Completo (9-21h),5,11630,20,14,1,1,1
+98,Biblioteca Regional 98,Barcelona,303,Tarde (16-21h),6,8151,15,0,1,0,0
+99,Biblioteca Universitaria 99,Barcelona,276,Mañana (9-14h),9,1667,21,4,1,1,0
+100,Biblioteca Del Barrio 100,Valladolid,161,Mañana (9-14h),13,1562,20,6,0,1,1
